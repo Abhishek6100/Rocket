@@ -1,0 +1,69 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.container{
+    margin: 50px 50px 0 50px ;
+}
+
+.title{
+    font-size: 20px;
+    margin: 0px 0px 0px 20px;
+    width: 50%;
+}
+.item{
+    display: flex;
+    justify-content:space-around;
+    /* margin-top: 50px; */
+}
+.pargraph{
+    font-size: 18px;
+    max-width: 600px;
+    margin: 20px 20px 0 0px;
+}
+.container button{
+    margin-top: 50px;
+    width: 180px;
+    height: 50px;
+    font-size: 20px;
+    background-color: rgb(29, 156, 230);
+    color: white;
+    border: none;
+     border-radius: 5px;
+}
+.contact{
+    background-color: rgb(218, 216, 216);
+    max-width: 600px;
+}
+h2{
+  justify-content: center;
+}
+.contact form{
+     margin:  50px 100px 0px 100px;
+}
+
+.input-group{
+    margin-top: 30px;
+}
+.input-group input{
+     width: 100%;
+     height: 40px;
+     padding-left: 30px;
+     color: black;
+     font-size: 20px;
+     font-weight: 600;
+      border: none;
+}
+.input-group textarea{
+    width: 100%;
+    padding-top: 20px;
+    padding-left: 30px;
+    font-size: 20px;
+    font-weight: 600;
+     border: none;
+}
+.contact button{
+    margin-bottom: 30px;
+}
